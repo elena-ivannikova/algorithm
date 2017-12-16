@@ -1,0 +1,15 @@
+*.class
+
+*.jar
+*.war
+*.ear
+*.iml
+
+.idea/
+.gradle/
+out/
+bin/
+build/
+log/
+logs/
+lib/
